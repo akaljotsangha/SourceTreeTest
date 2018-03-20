@@ -2,7 +2,7 @@ public class foo{
 	//
 	
 
-	int i = 0
+	long number = 0
 
 	
 }
