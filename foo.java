@@ -1,3 +1,6 @@
 public class foo{
-	//Hello
+	//
+	
+	long number = 9
+	
 }
