@@ -1,3 +1,6 @@
 public class foo{
-	//Hello
+	//
+	
+	int i = 0
+	
 }
