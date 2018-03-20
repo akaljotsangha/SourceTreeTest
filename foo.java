@@ -1,6 +1,8 @@
 public class foo{
 	//
 	
-	long number = 9
+
+	int i = 0
+
 	
 }
